@@ -1,4 +1,5 @@
 Industrial Automation 
+
 The project involves the automation of a pick-and-place system integrated with a conveyor, coupled with barcode reading capabilities for efficient quality control. The core of the automation is driven by Programmable Logic Controller (PLC) programming, specifically on the Allen Bradley 5000 platform.
 
 In this automated system, a robotic arm is tasked with picking objects from a specified location and placing them onto a conveyor. As each object moves along the conveyor, a barcode reader is employed to scan and decode the barcode information. The PLC, programmed on the Allen Bradley 5000, interprets this data and makes real-time decisions based on predetermined criteria.
